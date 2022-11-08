@@ -5,7 +5,7 @@ let states={
     },
     'register':{
         'active':0,
-        'label':"Sign Up"
+        'label':"Registrar-se"
     }
 };
 
